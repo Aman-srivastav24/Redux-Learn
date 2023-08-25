@@ -5,7 +5,7 @@ function Todos() {
  console.log(todos)
   return (
     <>    
-    <h1>Todos</h1>
+    <h1>Todos List</h1>
     <div>
     
     {todos.map((todo)=>(
